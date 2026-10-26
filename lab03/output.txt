@@ -1,0 +1,79 @@
+total 164
+-rw-rw-r-- 1 student student 42869 paź 26 10:25 last.txt
+-rw-rw-r-- 1 student student 45536 paź 26 10:50 ls-output.txt
+-rw-rw-r-- 1 student student     0 paź 26 10:50 output.txt
+-rw-rw-r-- 1 student student  4323 paź 26 10:15 pomoc.txt
+drwxrwxr-x 6 student student  4096 paź 26 10:39 PoryRoku
+-rw-rw-r-- 1 student student 43250 paź 26 10:27 ps-output.txt
+-rw-rw-r-- 1 student student    42 paź 26 10:31 pwd.txt
+-rw-rw-r-- 1 student student     8 paź 26 10:24 whoami.txt
+-rw-rw-r-- 1 student student    44 paź 26 10:24 who.txt
+-rw-rw-r-- 1 student student   310 paź 26 10:25 w.txt
+w.txt
+who.txt
+whoami.txt
+pwd.txt
+ps-output.txt
+PoryRoku
+pomoc.txt
+output.txt
+ls-output.txt
+last.txt
+PoryRoku
+last.txt
+ls-output.txt
+output.txt
+pomoc.txt
+ps-output.txt
+pwd.txt
+whoami.txt
+who.txt
+w.txt
+output.txt
+ls-output.txt
+PoryRoku
+pwd.txt
+ps-output.txt
+last.txt
+w.txt
+who.txt
+whoami.txt
+pomoc.txt
+total 176
+drwxrwxr-x 6 student student  4096 paź 26 10:11 ..
+-rw-rw-r-- 1 student student  4323 paź 26 10:15 pomoc.txt
+-rw-rw-r-- 1 student student     0 paź 26 10:18 .keep
+-rw-rw-r-- 1 student student     8 paź 26 10:24 whoami.txt
+-rw-rw-r-- 1 student student    44 paź 26 10:24 who.txt
+-rw-rw-r-- 1 student student   310 paź 26 10:25 w.txt
+-rw-rw-r-- 1 student student 42869 paź 26 10:25 last.txt
+-rw-rw-r-- 1 student student 43250 paź 26 10:27 ps-output.txt
+-rw-rw-r-- 1 student student    42 paź 26 10:31 pwd.txt
+drwxrwxr-x 6 student student  4096 paź 26 10:39 PoryRoku
+-rw-rw-r-- 1 student student 45536 paź 26 10:50 ls-output.txt
+drwxrwxr-x 3 student student  4096 paź 26 10:50 .
+-rw-rw-r-- 1 student student   900 paź 26 10:50 output.txt
+ls-output.txt
+ps-output.txt
+last.txt
+pomoc.txt
+PoryRoku
+output.txt
+w.txt
+who.txt
+pwd.txt
+whoami.txt
+total 176K
+-rw-rw-r-- 1 student student  45K paź 26 10:50 ls-output.txt
+-rw-rw-r-- 1 student student  43K paź 26 10:27 ps-output.txt
+-rw-rw-r-- 1 student student  42K paź 26 10:25 last.txt
+-rw-rw-r-- 1 student student 4,3K paź 26 10:15 pomoc.txt
+drwxrwxr-x 3 student student 4,0K paź 26 10:50 .
+drwxrwxr-x 6 student student 4,0K paź 26 10:11 ..
+drwxrwxr-x 6 student student 4,0K paź 26 10:39 PoryRoku
+-rw-rw-r-- 1 student student 1,8K paź 26 10:51 output.txt
+-rw-rw-r-- 1 student student  310 paź 26 10:25 w.txt
+-rw-rw-r-- 1 student student   44 paź 26 10:24 who.txt
+-rw-rw-r-- 1 student student   42 paź 26 10:31 pwd.txt
+-rw-rw-r-- 1 student student    8 paź 26 10:24 whoami.txt
+-rw-rw-r-- 1 student student    0 paź 26 10:18 .keep
