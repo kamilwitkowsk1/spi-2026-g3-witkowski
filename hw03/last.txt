@@ -1,0 +1,4 @@
+kamil    pts/1                         Sun Nov  8 23:08 - still logged in
+reboot   system boot  6.18.54.1-micros Sun Nov  8 22:48 - still running
+
+wtmpdb begins Sun Nov  8 22:48:20 2026
