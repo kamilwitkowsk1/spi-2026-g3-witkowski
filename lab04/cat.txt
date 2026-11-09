@@ -1,0 +1,4 @@
+sort > sort.txt
+
+uniq > uniq.txt
+cd
