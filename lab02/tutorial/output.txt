@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:53 dir
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:54 dir 1
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:54 dir 2
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:54 dir 3
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:55 dir 4
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:55 dir 6
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:55 dir 7
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:51 dir1
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:51 dir2
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:51 dir3
+drwxr-xr-x 3 kamil kamil 4096 Nov 15 22:52 dir4
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:55 dir5
+drwxr-xr-x 2 kamil kamil 4096 Nov 15 22:53 other
+-rw-r--r-- 1 kamil kamil    0 Nov 15 22:56 output.txt
