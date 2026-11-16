@@ -1,0 +1,2 @@
+Polecenie cal nie działa, gdyż nie jest zainstalowane na tym komputerze i nie
+znam hasła superużytkownika, aby je pobrać.
