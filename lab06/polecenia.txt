@@ -1,0 +1,18 @@
+apropos - przeszukuje nazwy i opisy stron podrecznika systemowego
+cal - wyswietla kalendarz
+cat - wyswietla zawartosc pliku lub laczy je w jeden plik
+cd - zmienia biezacy katalog
+chmod - zmienia uprawnienia dostepu do plikow i katalogow
+cp - kopiuje pliki i katalogi
+date - wyswietla godzine i date ustawiona w systemie
+echo - wyswietla podany tekst
+grep - wyszukuje tekst wewnatrz plikow
+head - wyswietla pierwsze linie pliku
+ls - wyswietla zawartosc katalogu
+man - otwiera dokumentacje wybranego polecenia
+mkdir - tworzy nowy katalog
+mv - przenosi pliki i katalogi
+pwd - wyswietla pelna sciezke do tego katalogu, w ktorym jestesmy
+rm - usuwa pliki lub katalogi
+tail - wyswietla ostatnie linie pliku
+touch - tworzy pusty plik
